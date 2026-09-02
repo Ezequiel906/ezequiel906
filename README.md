@@ -1,55 +1,109 @@
 [![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://arjuncvinod.github.io)
 
-<h1 align="center"> Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Soy Ezequiel!</h1>
- 
-<p align="center">💻 Desarrollador Web y Analista de Datos apasionado por la tecnología y la innovación.<br>
-🚀 En constante aprendizaje y construcción de soluciones digitales.</p>
+<h1 align="center">
+  Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Soy Ezequiel!
+</h1>
+
+<p align="center">
+  💻 <strong>Front-End Developer</strong> enfocado en JavaScript y React.<br>
+  🚀 Desarrollo de interfaces web modernas, funcionales y responsive.<br>
+  📚 En constante aprendizaje y construcción de proyectos para seguir creciendo como desarrollador.
+</p>
 
 ---
 
-## 🚀 Tecnologías Principales  
+## 👨‍💻 Sobre mí
 
-- **Front-End**:  
-  ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
+Soy desarrollador Front-End con experiencia trabajando con **JavaScript y React**, enfocado en la creación y mantenimiento de interfaces web.
 
+Actualmente continúo fortaleciendo mis conocimientos mediante proyectos personales, explorando nuevas tecnologías y buenas prácticas de desarrollo.
 
-
-- **Bases de Datos**:  
-  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CouchDB](https://img.shields.io/badge/CouchDB-%23E42528.svg?style=for-the-badge&logo=apachecouchdb&logoColor=white) ![Workbench](https://img.shields.io/badge/MySQL%20Workbench-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
-
-
-- **Análisis de Datos y BI**:  
-  ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black) ![Pentaho](https://img.shields.io/badge/Pentaho-%23007396.svg?style=for-the-badge&logoColor=white) ![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)  
+Me interesa especialmente crear interfaces **responsive, intuitivas y mantenibles**, así como trabajar en equipo utilizando herramientas como Git, GitHub, Jira y metodologías de trabajo colaborativo.
 
 ---
 
-## 🛠️ Herramientas y Entornos  
+## 🚀 Tecnologías
 
-- **Control de Versiones & Cloud**:  
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)  
+### Front-End
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
-- **Colaboración y Testing**:  
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
+### Herramientas y desarrollo
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
 
-- **Sistemas Operativos & IDEs**:  
-  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)  
+### Bases de Datos
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge\&logo=oracle\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+
+---
+
+## 📂 Proyectos
+
+### 💰 PocketPilot
+
+Aplicación web de finanzas personales desarrollada con **React y JavaScript**.
+
+El proyecto permite gestionar ingresos, gastos y presupuestos, utilizando componentes reutilizables y almacenamiento persistente en el navegador.
+
+**Tecnologías:** React · JavaScript · CSS · React Router · React Hook Form
+
+🔗 **Demo:** https://pocket-pilot-xi.vercel.app/
 
 ---
 
-## 📈 Estadísticas de GitHub  
+### 🌸 EXPONTANEA SV
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequiel906&show_icons=true&theme=radical)  
+Sitio web para una floristería desarrollado como proyecto de portafolio.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequiel906&layout=compact&theme=radical)  
+Actualmente en desarrollo, utilizando **React y Vite**, con enfoque en diseño responsive, componentes reutilizables y una experiencia de usuario moderna.
+
+**Tecnologías:** React · JavaScript · Vite · HTML · CSS
+
+🚧 Proyecto en desarrollo.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequiel906\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequiel906\&layout=compact\&theme=radical)
+
+</div>
 
 ---
 
-## 📫 Conecta conmigo  
+## 📫 Contacto
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+<p align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](#)  
+<a href="TU_LINK_DE_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:TU_CORREO">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
 
 ---
+
+<p align="center">
+  ⭐ Gracias por visitar mi perfil
+</p>
