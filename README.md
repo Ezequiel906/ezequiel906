@@ -92,11 +92,11 @@ Actualmente en desarrollo, utilizando **React y Vite**, con enfoque en diseño r
 
 <p align="center">
 
-<a href="TU_LINK_DE_LINKEDIN">
+<a href="https://www.linkedin.com/in/ezequiel-ortiz-05aa17182/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:TU_CORREO">
+<a href="mailto:kima.eze16@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
