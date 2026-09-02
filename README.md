@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## ◆ Sobre mí
 
 Soy desarrollador Front-End con experiencia trabajando con **JavaScript y React**, enfocado en la creación y mantenimiento de interfaces web.
 
@@ -22,7 +22,7 @@ Me interesa especialmente crear interfaces **responsive, intuitivas y mantenible
 
 ---
 
-## 🚀 Tecnologías
+## ◆ Tecnologías
 
 ### Front-End
 
@@ -50,9 +50,9 @@ Me interesa especialmente crear interfaces **responsive, intuitivas y mantenible
 
 ---
 
-## 📂 Proyectos
+## ◆ Proyectos
 
-### 💰 PocketPilot
+### PocketPilot
 
 Aplicación web de finanzas personales desarrollada con **React y JavaScript**.
 
@@ -64,7 +64,7 @@ El proyecto permite gestionar ingresos, gastos y presupuestos, utilizando compon
 
 ---
 
-### 🌸 EXPONTANEA SV
+### EXPONTANEA SV
 
 Sitio web para una floristería desarrollado como proyecto de portafolio.
 
@@ -72,23 +72,24 @@ Actualmente en desarrollo, utilizando **React y Vite**, con enfoque en diseño r
 
 **Tecnologías:** React · JavaScript · Vite · HTML · CSS
 
-🚧 Proyecto en desarrollo.
+**Estado:** En desarrollo
 
 ---
 
-## 📊 Estadísticas de GitHub
+## ◆ GitHub Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequiel906\&show_icons=true\&theme=radical)
+<img src="./profile-summary-card-output/profile-details.svg" width="100%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequiel906\&layout=compact\&theme=radical)
+<img src="./profile-summary-card-output/repos-per-language.svg" width="49%" />
+<img src="./profile-summary-card-output/most-commit-language.svg" width="49%" />
 
 </div>
 
 ---
 
-## 📫 Contacto
+## ◆ Contacto
 
 <p align="center">
 
@@ -105,5 +106,5 @@ Actualmente en desarrollo, utilizando **React y Vite**, con enfoque en diseño r
 ---
 
 <p align="center">
-  ⭐ Gracias por visitar mi perfil
+  Gracias por visitar mi perfil.
 </p>
