@@ -76,17 +76,6 @@ Actualmente en desarrollo, utilizando **React y Vite**, con enfoque en diseño r
 
 ---
 
-## ◆ GitHub Statistics
-
-<div align="center">
-
-<img src="./profile-summary-card-output/profile-details.svg" width="100%" />
-
-<img src="./profile-summary-card-output/repos-per-language.svg" width="49%" />
-<img src="./profile-summary-card-output/most-commit-language.svg" width="49%" />
-
-</div>
-
 ---
 
 ## ◆ Contacto
