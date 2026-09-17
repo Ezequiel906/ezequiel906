@@ -66,13 +66,18 @@ El proyecto permite gestionar ingresos, gastos y presupuestos, utilizando compon
 
 ### EXPONTANEA SV
 
-Sitio web para una floristería desarrollado como proyecto de portafolio.
+Aplicación web Full Stack para una floristería, desarrollada como proyecto de portafolio y desplegada en producción.
 
-Actualmente en desarrollo, utilizando **React y Vite**, con enfoque en diseño responsive, componentes reutilizables y una experiencia de usuario moderna.
+El proyecto incluye catálogo de productos, filtrado por ocasión, detalle de productos, carrito, checkout, creación y seguimiento de pedidos, autenticación de usuarios, recuperación de contraseña y panel administrativo.
 
-**Tecnologías:** React · JavaScript · Vite · HTML · CSS
+También cuenta con gestión de productos e imágenes mediante Cloudinary y formulario de contacto integrado con Resend.
 
-**Estado:** En desarrollo
+**Tecnologías:** React · TypeScript · Vite · Node.js · Express · Prisma · MySQL · JWT · Cloudinary · Resend
+
+**Deployment:** Vercel · Render · Aiven
+
+🔗 **Demo:** https://expontanea-sv-one.vercel.app/
+🔗 **Repositorio:** https://github.com/Ezequiel906/expontanea-sv
 
 ---
 
